@@ -1,0 +1,42 @@
+{
+  "name": "questionaire_app",
+  "version": "1.0.0",
+  "author": "stephen@stephenkelzer.com",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@mui/material": "5.11.6",
+    "@mui/x-date-pickers": "5.0.15",
+    "@types/node": "16.18.11",
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "axios": "1.2.3",
+    "dayjs": "1.11.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "typescript": "4.9.4"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
